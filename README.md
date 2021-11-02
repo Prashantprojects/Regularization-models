@@ -56,6 +56,17 @@ In this notebook we will check if either Ridge, Lasso or Elastic Net Regression 
 - R2 Square: The percentage of variation explained by the relationship between two variables
 
 
+**Advantages of Regularization**
 
+We can use regularized model to reducte the dimensionality of the training dataset. Dimensionality reduction is important becasue of three main reasons:
+- **Prevents Overfitting**: A high-dimensional dataset having too many features can sometimes lead to overfitting (model captures borh real and random effects).
+- **Simplicity**: An over-complex model having too many features can be hard to interpret especially when feature are correlated with each other/
+- **Compututional Efficiency**: A model trained on a lower dimensional datraset is computationally efficient (execution of algorithm requires less computational time).
+
+**Disadvantages of Regularization**
+
+Regularization leads to dimensionality reduction, which means the machine learning model is built using a lower dimensional dataset. This generally leads to a high **bias error*.
+
+If regularization is performed before training the model, a perfect balance between **bias-variance-tradeoff** must be used
 
 
