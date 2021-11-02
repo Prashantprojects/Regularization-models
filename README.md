@@ -81,4 +81,4 @@ Regularization leads to dimensionality reduction, which means the machine learni
 
 If regularization is performed before training the model, a perfect balance between **bias-variance-tradeoff** must be used
 
-
+**Performance of our Train data should always be higher then our Test Data else our model overfits**
