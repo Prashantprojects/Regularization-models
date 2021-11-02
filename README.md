@@ -26,7 +26,7 @@ In this notebook we will check if either Ridge, Lasso or Elastic Net Regression 
     - The tuning paramter lambda serves to control the relative impact of the penalty term on the regression coefficinet estimates
     - Selecting a good Lambda (alpha) value is critical; cross-validation is used to find the most suitable Lambda(alpha)
     - It is best to apply Ridge Regression after variable standardization
-\
+
 
 
  
@@ -36,7 +36,7 @@ In this notebook we will check if either Ridge, Lasso or Elastic Net Regression 
     - LASSO eliminates the least imporant features fromt he model, it automatically performs a type of feature selection
     - Selecting a good value for Lambda(alpha) we use cross-validation
     - It is best to apply LASSO Regression after variable standardization
-\
+
 
 
 - **Elastic Net Regression**
