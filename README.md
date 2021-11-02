@@ -1,6 +1,18 @@
 # Regularization-models
 
-The purpose of this project was to get familiar with Ridge, Lasso and Elastic Net Regression. In this notebook Regularization models.ipynb i have applied the Regularization models on a dataset and showed the difference between these Regularization models and which one is better to use. 
+The purpose of this project was to get familiar with Ridge, Lasso and Elastic Net Regression. i have applied the Regularization models on a dataset and showed the difference between these Regularization models and which one is better to use. 
+
+**Regularization model.ipynb**: Regularization models applied on a real world dataset
+
+**Regularization model p2.ipynb**: Regulariztion models applied to a self created dataset to display:
+ - Ridge Regression
+ - Lasso Regression
+ - Elastic Net Regression
+ - Shrinkage of coefficinets features between those models
+ - Finding the optimal Alpha for those features
+ - Visually display the Alpha and shrinkage coefficinets of those features with graphs
+
+This notebook can be used as an good example to show other people how Regularization models work
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
