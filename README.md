@@ -83,4 +83,4 @@ If regularization is performed before training the model, a perfect balance betw
 
 **Performance Train vs Test data**
 
-**Performance of our Train data should always be higher then our Test Data else our model overfits**
+Performance of our Train data should always be higher then our Test Data else our model overfits
